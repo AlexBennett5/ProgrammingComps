@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "ios": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "vector": "cpp"
     }
 }
